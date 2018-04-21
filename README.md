@@ -1,5 +1,5 @@
 # liri-node-app
-Week 10 (LIRI Bot) Assignment
+Week 10 Assignment(Liri Node App)
 
 The requirement was to use Node JS to create a LIRI bot, like iPhone's SIRI, but takes in command through Language vs Speech. LIRI is a command line node app that takes in parameters and returns data based on one of four commands:
 
@@ -32,7 +32,7 @@ The requirement was to use Node JS to create a LIRI bot, like iPhone's SIRI, but
     * The album that the song is from
 
   * Or if no song is passed through, it will default to
-    *"The Sign" by Ace of Base
+    *The Sign by Ace of Base
 
 3. `node liri.js movie-this <movie name>`
 
@@ -48,7 +48,7 @@ The requirement was to use Node JS to create a LIRI bot, like iPhone's SIRI, but
     * Rotten Tomatoes Rating.
     * Rotten Tomatoes URL.
 
-  * Or if no movie is passed through, it will default to "Mr. Nobody"
+  * Or if no movie is passed through, it will default to Mr. Nobody
 
 4. `node liri.js do-what-it-says`
 
